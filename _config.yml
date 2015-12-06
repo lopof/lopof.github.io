@@ -7,29 +7,29 @@ paginate: 5
 gems: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://schw4b.github.io/vitae
-author: Fábio Madeira
+url: http://schw4b.github.io
+author: Simon Schwab
 
 # edit this section with your information
 # biomadeira.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
 baseurl: /
-title: Simon Schwab's Resume
-name: Chris Turner
-email: christurn@me.com
-email_full: mailto:youremail@me.com
-website: github.io/sustain
-website_full: https://biomadeira.github.io/sustain
-github: trending
-twitter: twitter
-tel: +44 0000 000000
-tel_full: tel:+440000000000
-google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
+title: Simon Schwab
+name: Simon Schwab
+email: schw4b@gmail.com
+email_full: mailto:schw4b@gmail.com
+website: github.io/schw4b
+website_full: https://schw4b.github.io
+github: schw4b
+# twitter: twitter
+# tel: +44 0000 000000
+# tel_full: tel:+440000000000
+google_maps: 'https://www.google.ch/maps/place/University+of+Warwick/@52.3792525,-1.5636591,17z/data=!3m1!4b1!4m2!3m1!1s0x48774ac696d53ee5:0xaa928d75708b2b54'
 address: 44 Perth Street
-postcode: EH3 5BL
-city: Edinburgh
+postcode: CV4 7AL
+city: Coventry
 country: United Kingdom
-google_analytics: UA-69300817-1
+# google_analytics: UA-69300817-1
 
 # needed for travis-ci build
 exclude: [vendor]
