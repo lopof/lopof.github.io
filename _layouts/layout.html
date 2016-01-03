@@ -27,9 +27,7 @@
     <header class="three columns">
         <img src="{{ site.baseurl }}static/img/profile.png" class="me">
         <h1>{{ site.name }}</h1>
-        <p>
-            <a href="{{ site.tel_full }}">{{ site.tel }}</a>
-        </p>
+        
         <address>
             <a href="{{ site.google_maps }}">
                 {{ site.address }}<br/>
@@ -38,16 +36,24 @@
                 {{ site.country }}
             </a>
         </address>
+        
         <p>
+            <a href="{{ site.email2_full }}">Mail (office)</a><br/>
+            <a href="{{ site.email_full }}">Mail (gmail)</a><br/>
             <a href="{{ site.website_full }}">{{ site.website }}</a><br/>
-        </p>
-        <p>
-            <a href="{{ site.email_full }}">{{ site.email }}</a><br/>
             <a href="https://github.com/{{ site.github }}"><i class="fa fa-github"></i> Github</a>
             <!-- <a href="https://twitter.com/{{ site.twitter }}"><i class="fa fa-twitter"></i> Twitter</a> -->
         </p>
+        <p>My research is supported by:</p>
         <p>
-            <img src="{{ site.baseurl }}static/img/SNF.png" width="130">
+            <a href="http://www.warwick.ac.uk/">
+                <img src="{{ site.baseurl }}static/img/warwick.png" width="120">
+            </a>
+        </p>
+        <p>
+            <a href="http://www.snf.ch/en/">
+                <img src="{{ site.baseurl }}static/img/SNF.png" width="120">
+            </a>
         </p>
     </header>
     <div class="thirteen columns clearfix">
