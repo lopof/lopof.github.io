@@ -31,7 +31,7 @@ address: University of Warwick
 postcode: CV4 7AL
 city: Coventry
 country: United Kingdom
-# google_analytics: UA-69300817-1
+google_analytics: UA-72106507-1
 
 # needed for travis-ci build
 exclude: [vendor]
