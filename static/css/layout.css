@@ -117,11 +117,11 @@ em {
     /*margin-right: 6px;*/
 }
 
-@media print {
-    @page {
+@page {
         margin: 15mm;
     }
 
+@media print {
     body {
         font-size: 14pt;
         line-height: 21pt;
