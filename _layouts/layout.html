@@ -29,7 +29,7 @@
         <h1>{{ site.name }}</h1>
         
         <p>
-            +44 (0)24 7657 3665
+            <a href="{{ site.tel_full }}">{{ site.tel }}</a>
             <a href="{{ site.email_full }}">s.schwab@warwick.ac.uk</a><br/>
         </p>
         
@@ -37,7 +37,7 @@
             <a href="{{ site.google_maps }}">
                 {{ site.address }}<br/>
                 {{ site.postcode }}<br/>
-                {{ site.city }}<br/>
+                {{ site.city site.postcode}}<br/>
                 {{ site.country }}
             </a>
         </address>
