@@ -29,15 +29,14 @@
         <h1>{{ site.name }}</h1>
         
         <p>
-            <a href="{{ site.tel_full }}">{{ site.tel }}</a>
+            {{ site.tel }}
             <a href="{{ site.email_full }}">s.schwab@warwick.ac.uk</a><br/>
         </p>
         
         <address>
             <a href="{{ site.google_maps }}">
                 {{ site.address }}<br/>
-                {{ site.postcode }}<br/>
-                {{ site.city }} {{site.postcode}}<br/>
+                {{ site.city }}, {{site.postcode}}<br/>
                 {{ site.country }}
             </a>
         </address>
