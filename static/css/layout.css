@@ -14,12 +14,12 @@ body {
 }
 
 a {
-    text-decoration: none;
+    text-decoration: #4a90d9;
     /*background-color: rgba(39, 168, 34, 0.06);*/
 }
 
 a:visited {
-    text-decoration: none;
+    text-decoration: #4a90d9;;
 }
 
 a:hover, a:focus {
