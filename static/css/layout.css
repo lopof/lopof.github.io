@@ -71,7 +71,7 @@ article {
     margin-bottom: 20px;
 }
 
-article > header > h1 {
+article > header > h2 {
     font-size: 112%;
     font-weight: bold;
     line-height: 150%;
