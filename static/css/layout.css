@@ -22,6 +22,11 @@ a:visited {
     text-decoration: none;
 }
 
+a:link {
+    color: #4a90d9;
+}
+
+
 a:hover, a:focus {
     color: #4a90d9;
 }
