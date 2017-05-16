@@ -19,16 +19,16 @@ a {
 }
 
 a:visited {
-    color: #516390;
+    color: #2f8ab7;
 }
 
 a:link {
-    color: #41b7f2;
+    color: #32a3db;
 }
 
 
 a:hover, a:focus {
-    color: #41b7f2;
+    color: #32a3db;
 }
 
 p, address {
