@@ -13,11 +13,11 @@ author: Fábio Madeira
 # edit this section with your information
 # jekyller.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: /vitae/
-title: Chris Turner's Resume
-name: Chris Turner
-email: christurner@me.com
-email_full: mailto:youremail@me.com
+baseurl: /
+title: Thomas Baumann Vitae
+name: Thomas Baumann  
+email: thbaumann90@gmail.com
+email_full: mailto:thbaumann90@gmail.com
 website: github.io/sustain
 website_full: https://jekyller.github.io/sustain
 github: trending
