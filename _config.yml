@@ -8,7 +8,7 @@ plugins: [jekyll-paginate]
 port: 4000
 safe: true
 url: http://lopof.github.io
-author: Fábio Madeira
+author: Thomas Baumann 
 
 # edit this section with your information
 # jekyller.github.io - all contents run on /vitae/
@@ -18,9 +18,9 @@ title: Thomas Baumann Vitae
 name: Thomas Baumann  
 email: thbaumann90@gmail.com
 email_full: mailto:thbaumann90@gmail.com
-website: 
-website_full: 
-github: 
+website: github.com/lopof
+website_full: https://github.com/lopof
+github: lopof
 twitter: 
 tel: 
 tel_full: 
