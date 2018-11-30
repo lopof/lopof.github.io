@@ -10,7 +10,7 @@ safe: true
 url: http://lopof.github.io
 author: Thomas Baumann 
 
-# edit this section with your information
+# edit this section with your informations
 # jekyller.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
 baseurl: /
